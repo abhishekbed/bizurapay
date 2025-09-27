@@ -150,7 +150,7 @@ export default function ProofGenerator() {
         <div
             style={{
                 minHeight: "100vh",
-                background: "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)",
+                background: "linear-gradient(135deg, #0f172a 0%, #1e293b 25%, #334155 75%, #475569 100%)",
                 fontFamily: "'Segoe UI', Roboto, sans-serif",
                 display: "flex",
                 flexDirection: "column",
