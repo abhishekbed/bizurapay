@@ -181,7 +181,7 @@ export default function ProofGenerator() {
                     }}
                 >
                     <h2 style={{ textAlign: "center", marginBottom: "25px", color: "#333" }}>
-                        Generate ZK Proof
+                        Generate ZK
                     </h2>
 
                     {[
